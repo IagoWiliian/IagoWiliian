@@ -1,6 +1,6 @@
 # Olá, eu sou Iago Willian  ✌🏾
 
-tenho 26 anos, sou formado em Administração e atualmente estou em transição de carreira para a área de Tecnologia. Atualmente curso o Bootcamp de Desenvolvimento Java Full Stack pela Generation Brazil. onde estou desenvolvendo habilidades técnicas e comportamentais fundamentais para o mercado de tecnologia.
+tenho 26 anos, sou formado em Administração e atualmente estou em transição de carreira para a área de Tecnologia. Conclui recentemente o Bootcamp de Desenvolvimento Java Full Stack pela Generation Brazil e iniciei uma pós graduação em Engenharia de Software . Estou desenvolvendo habilidades técnicas e comportamentais fundamentais para o mercado de tecnologia.
 
   Durante essa jornada, venho me aprofundando em:
 
