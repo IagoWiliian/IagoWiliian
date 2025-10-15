@@ -1,22 +1,20 @@
 # Olá, eu sou Iago Willian  ✌🏾
 
-tenho 27 anos, sou formado em Administração e atualmente estou em transição de carreira para a área de Tecnologia. Conclui recentemente o Bootcamp de Desenvolvimento Web Full Stack com foco em Java pela Generation Brazil e iniciei uma pós graduação em Engenharia de Software . Estou desenvolvendo habilidades técnicas e comportamentais fundamentais para o mercado de tecnologia.
+Tenho 27 anos, sou formado em Administração e estou em transição de carreira para a área de tecnologia. Concluí recentemente o Bootcamp de Desenvolvimento Web Full Stack com foco em Java pela Generation Brazil. Pretendo iniciar uma graduação em tecnologia no próximo ano para consolidar minha base teórica e avançar na área.
 
   Durante essa jornada, venho me aprofundando em:
 
-  Desenvolvimento back-end 
+- Desenvolvimento Back-end com Java e Spring Boot  
+- Estruturação de Front-end com React  
+- Manipulação de dados usando MySQL Workbench e PostgreSQL
+- Boas práticas de desenvolvimento no Visual Studio Code  
+- Trabalho em equipe com metodologias ágeis (Scrum)  
+- Desenvolvimento de soft skills: comunicação, colaboração e resolução de problemas
+  
 
- Estruturação de front-end 
+Meu objetivo
 
- Manipulação de dados com MySQL Workbench,
-
-Boas práticas com uso de Visual Studio Code,
-
-Trabalho em equipe com foco em metodologias ágeis (Scrum),
-
-Desenvolvimento de soft skills para comunicação, colaboração e resolução de problemas.
-
-Sou movido pelo aprendizado constante e pela vontade de construir soluções que gerem impacto real. Meu objetivo é atuar como desenvolvedor Full Stack, integrando conhecimento técnico, visão analítica e experiência em gestão.
+Sou movido pelo aprendizado constante e pelo desejo de construir soluções que gerem impacto real. Quero atuar como desenvolvedor Full Stack, integrando conhecimento técnico, visão analítica e experiência em gestão.
 
 <div style="display: flex; align-items: center; gap: 6px;">
 
