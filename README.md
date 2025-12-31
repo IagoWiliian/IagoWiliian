@@ -1,6 +1,6 @@
 # Olá, eu sou Iago Willian  ✌🏾
 
-Tenho 27 anos, sou formado em Administração e estou em transição de carreira para a área de tecnologia. Concluí recentemente o Bootcamp de Desenvolvimento Web Full Stack com foco em Java pela Generation Brazil. Pretendo iniciar uma graduação em tecnologia no próximo ano para consolidar minha base teórica e avançar na área.
+Tenho 27 anos, sou formado em Administração e estou em transição de carreira para a área de tecnologia. Concluí recentemente o Bootcamp de Desenvolvimento Web Full Stack com foco em Java pela Generation Brasil. Atualmente, estou cursando graduação em Sistemas de Informação pela UNA, com o objetivo de consolidar minha base teórica e avançar profissionalmente na área tech.
 
   Durante essa jornada, venho me aprofundando em:
 
