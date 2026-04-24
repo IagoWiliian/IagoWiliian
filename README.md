@@ -1,20 +1,22 @@
 # Olá, eu sou Iago Willian  ✌🏾
 
-Tenho 27 anos, sou formado em Administração e estou em transição de carreira para a área de tecnologia. Concluí recentemente o Bootcamp de Desenvolvimento Web Full Stack com foco em Java pela Generation Brasil. Atualmente, estou cursando graduação em Sistemas de Informação pela UNA, com o objetivo de consolidar minha base teórica e avançar profissionalmente na área tech.
+Tenho 27 anos, sou formado em Administração e atualmente estou em transição de carreira para a área de tecnologia. Concluí o Bootcamp de Desenvolvimento Web Full Stack com foco em Java pela Generation Brasil e, no momento, curso Sistemas de Informação pela UNA, com o objetivo de fortalecer minha base teórica e evoluir profissionalmente na área tech.
 
-  Durante essa jornada, venho me aprofundando em:
+Recentemente, também concluí um curso voltado à área de Inteligência Artificial, ampliando meus conhecimentos em tecnologias emergentes e fortalecendo minha capacidade de desenvolver soluções mais inteligentes e orientadas a dados.
 
-- Desenvolvimento Back-end com Java e Spring Boot  
-- Estruturação de Front-end com React  
-- Manipulação de dados usando MySQL Workbench e PostgreSQL
-- Boas práticas de desenvolvimento no Visual Studio Code  
-- Trabalho em equipe com metodologias ágeis (Scrum)  
-- Desenvolvimento de soft skills: comunicação, colaboração e resolução de problemas
-  
+Durante essa jornada, venho desenvolvendo habilidades em:
 
-Meu objetivo
+Desenvolvimento back-end com Java e Spring Boot
+Construção de interfaces com React
+Manipulação de bancos de dados com MySQL e PostgreSQL
+Versionamento de código com Git e GitHub
+Fundamentos de Inteligência Artificial aplicados ao desenvolvimento
+Práticas de desenvolvimento utilizando Visual Studio Code
+Metodologias ágeis (Scrum) e trabalho em equipe
 
-Sou movido pelo aprendizado constante e pelo desejo de construir soluções que gerem impacto real. Quero atuar como desenvolvedor Full Stack, integrando conhecimento técnico, visão analítica e experiência em gestão.
+Além das competências técnicas, também venho fortalecendo habilidades comportamentais como comunicação, colaboração e resolução de problemas.
+
+Busco minha primeira oportunidade como desenvolvedor Full Stack, onde eu possa aplicar meus conhecimentos, continuar evoluindo e contribuir com soluções que gerem impacto real.
 
 <div style="display: flex; align-items: center; gap: 6px;">
 
